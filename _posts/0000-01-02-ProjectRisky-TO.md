@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+What in the Fait you doing?
 Use the left arrow to go back!
 
